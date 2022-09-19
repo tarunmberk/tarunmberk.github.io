@@ -1,22 +1,28 @@
 {
-	"movies": [
+	"trips": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Country": "Israel 🇮🇱",
+			"Reason for visit": "Student Exchange Program",
+			"When?": "Winter 2019",
+			"Top 5 emojis to describe my experience": "🪩 🕌 🕍 🚎 🥙"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Country": "Lebanon 🇱🇧",
+			"Reason for visit": "Conference with other universities",
+			"When?": "Summer 2018",
+			"Top 5 emojis to describe my experience": "🧑🏻‍💼 🏖 🥗 🏛 🍷"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Country": "Oman 🇴🇲",
+			"Reason for visit": "Visiting my aunt",
+			"When?": "Summer 2016",
+			"Top 5 emojis to describe my experience": "🤿 🚄 👨‍👩‍👧‍👦 🕌 📕"
+		},
+		{
+			"Country": "USA 🇺🇸",
+			"Reason for visit": "Attending a year of middle school in the US",
+			"When?": "Fall 2011",
+			"Top 5 emojis to describe my experience": "👶🏻 🍩 🗽 🦖 ⛴"
 		}
 	]
 }
